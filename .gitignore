@@ -1,3 +1,5 @@
 # IDE Configuration
 .vscode
 .vscode/*
+mytextfile.*
+*.zip
